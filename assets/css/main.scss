@@ -46,10 +46,10 @@
 
 /* This targets the "Working Papers" subtitle */
 .archive__subtitle {
-  color: black; /* A dark gray. Change to 'black' or any hex code */
+  color: black !important; /* A dark gray. Change to 'black' or any hex code */
 }
 
 /* This targets the "under revision at..." text */
 .page__meta {
-  color: black; /* A dark gray. Change to 'black' or any hex code */
+  color: black !important; /* A dark gray. Change to 'black' or any hex code */
 }
