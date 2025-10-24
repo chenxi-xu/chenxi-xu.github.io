@@ -1,10 +1,10 @@
 ---
 title: "EGRMGMT 580 Decision Models"
 collection: teaching
-type: "Undergraduate course"
+#type: "Undergraduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Master of Engineering Management, Duke University; Evaluation: 4.67/5"
-date: Spring 2024
+date: 2024-05-01
 #location: "City, Country"
 ---
 
