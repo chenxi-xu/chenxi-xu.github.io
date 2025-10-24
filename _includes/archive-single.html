@@ -62,14 +62,16 @@
     {{ post.type }}
     {% if post.venue or post.date %}, {% endif %}
   {% endif %}
-
+  
   {% if post.venue %}
     <i>{{ post.venue }}</i>
     {% if post.date %}, {% endif %}
   {% endif %}
-
+  
   {% if post.date %}
-    {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    {% if post.year %}
+      {{ post.year }}  {% else %}
+      {{ post.date | default: "1900-01-01" | date: "%Y" }} {% endif %}
   {% endif %}
 </p>
 {% elsif post.collection == 'publications' %}
