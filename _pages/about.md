@@ -11,7 +11,6 @@ Welcome! I am a final-year PhD candidate in Decision Sciences at the Fuqua Schoo
 
 ## Contact
 * Email: chenxi.xu@duke.edu
-#* Phone: +1 919 597 8388
 
 ## Education
 * **Ph.D. in Decision Sciences**, Duke University, *exp. 2026*
