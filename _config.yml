@@ -88,6 +88,13 @@ publication_category:
   work_in_progress:
     title: 'Work in Progress'
 
+# Teaching Category - The list of teaching roles and their headings
+teaching_category:
+  instructor:
+    title: 'Instructor'
+  teaching_assistant:
+    title: 'Teaching Assistant'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
