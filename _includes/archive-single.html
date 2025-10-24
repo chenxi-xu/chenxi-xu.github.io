@@ -46,7 +46,7 @@
 </h2>
 
     {% if post.venue and post.collection != 'teaching' %}
-  <p class="page__meta">{{ post.venue }}</p>
+  <p class="page__meta">with <i>{{ post.coauthors }}</i></p>
 {% endif %}
   {% if post.read_time %}
     <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
