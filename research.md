@@ -14,7 +14,10 @@ author_profile: true
 {% assign category_posts = site.research | where: "category", category_name | reverse %}
 
 {% if category_posts.size > 0 %}
-## {{ category_info.title }} {:.archive__subtitle}
+{% assign title = category_info.title %}
+
+## {{ title }} {:.archive__subtitle}
+
 {% for post in category_posts %}
 {% include archive-single.html %}
 {% endfor %}
