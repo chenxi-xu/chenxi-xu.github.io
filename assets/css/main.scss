@@ -8,6 +8,17 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+$muted-text-color: #555555;  // This controls the "Working Papers" subtitle
+$gray: #666666;              // This controls the "under revision at..." text
+
+/* --- Now, import the theme's styles --- */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -42,14 +53,3 @@
     "vendor/font-awesome/brands"
 ;
 
-/* --- Custom Color Overrides --- */
-
-/* This targets the "Working Papers" subtitle */
-.archive__subtitle {
-  color: black !important; /* A dark gray. Change to 'black' or any hex code */
-}
-
-/* This targets the "under revision at..." text */
-.page__meta {
-  color: black !important; /* A dark gray. Change to 'black' or any hex code */
-}
