@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "EGRMGMT 580 Decision Models"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "Master of Engineering Management, Duke University; Evaluation: 4.67/5"
+date: Spring 2024
+#location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Topics: Decision tree, Monte Carlo simulation, and Linear optimization
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
