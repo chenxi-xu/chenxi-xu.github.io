@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a final-year PhD candidate in Decision Sciences at the Fuqua School of Business, Duke University. My research focuses on applied mechanism and market design, with an emphasis on using optimization methods to address healthcare-related problems. \
+Welcome! I am a final-year PhD candidate in Decision Sciences at the Fuqua School of Business, Duke University. My research focuses on applied mechanism and market design, with an emphasis on using optimization methods to address healthcare-related problems. 
 
 I will be on the 2025-2026 Job Market.
 
