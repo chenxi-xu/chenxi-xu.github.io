@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "Decision Models"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+category: teaching_assistant # <--- Add this
+type: "Graduate Course"
+venue: "Fuqua School of Business, Duke University"
+date: 2023-09-01
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
