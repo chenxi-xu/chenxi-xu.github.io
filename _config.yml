@@ -88,6 +88,15 @@ publication_category:
   work_in_progress:
     title: 'Work in Progress'
 
+# Research Category - The following the list of research categories and their headings
+research_category:
+  publications:
+    title: 'Publications'
+  working_papers:
+    title: 'Working Papers'      
+  work_in_progress:
+    title: 'Work in Progress'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
