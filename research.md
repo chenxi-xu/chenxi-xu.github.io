@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+#title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -16,7 +16,7 @@ author_profile: true
 {% if category_posts.size > 0 %}
 {% assign title = category_info.title %}
 
-## {{ title }} {:.archive__subtitle}
+# {{ title }} {:.archive__subtitle}
 
 {% for post in category_posts %}
 {% include archive-single.html %}
