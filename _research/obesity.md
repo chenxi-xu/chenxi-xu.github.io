@@ -5,7 +5,7 @@ category: working_papers
 #permalink: /research/obesity.md
 #excerpt: ''
 date: 2025-09-03
-venue: 'with Yushan Zhou and Ziwei Zhu, to be submitted to <i>Manufacturing & Service Operations Management</i>'
+venue: 'with Yushan Zhou and Ziwei Zhu'
 #slidesurl: '/files/slides1.pdf'
 link: '/files/obesity.pdf'
 #bibtexurl: '/files/bibtex1.bib'
