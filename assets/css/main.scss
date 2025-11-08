@@ -42,15 +42,3 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Custom ClustrMaps Sizing */
-.clustrmaps-container {
-  max-width: 300px; /* Adjust this value to your desired width (e.g., 200px, 400px) */
-  margin: 0 auto;   /* This centers the map on the page */
-  padding-top: 20px; /* Add some space above it if needed */
-}
-
-/* Target the map image directly for better control */
-.clustrmaps-container img {
-  max-width: 100%; /* Ensures the image scales down within its container */
-  height: auto;
-}
