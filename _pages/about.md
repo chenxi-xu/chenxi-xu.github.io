@@ -12,7 +12,7 @@ Welcome! I am a final-year PhD candidate in Decision Sciences at the Fuqua Schoo
 I will be on the 2025-2026 Job Market.
 
 ## Contact
-* Email: chenxi.xu@duke.edu
+* Email: chenxi[dot]xu[at]duke[dot]edu
 
 ## Education
 * **Ph.D. in Decision Sciences**, Duke University, 2026 (expected)
