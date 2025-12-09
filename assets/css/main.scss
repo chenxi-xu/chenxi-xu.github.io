@@ -42,3 +42,14 @@
     "vendor/font-awesome/brands"
 ;
 
+/* --- Force Black Text --- */
+
+/* This turns the "Working Papers" subtitle black */
+.archive__subtitle {
+  color: #000000 !important;
+}
+
+/* This turns the "with Coauthors..." and "under revision..." text black */
+.page__meta {
+  color: #000000 !important;
+}
