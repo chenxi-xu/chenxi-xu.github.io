@@ -9,6 +9,8 @@ redirect_from:
 
 Welcome! I am a final-year PhD candidate in Decision Sciences at the Fuqua School of Business, Duke University, where I am advised by Prof. [Peng Sun](https://www.fuqua.duke.edu/faculty/peng-sun). My research focuses on applied mechanism and market design, with an emphasis on using analytical modeling and optimization methods to address innovation and healthcare problems. I am also interested in applying robust optimization techniques to these problems.
 
+I will join the Supply Chain and Operations Management Department at Purdue University's Mitch Daniels School of Business as an Assistant Professor in Summer 2026.
+
 ## Contact
 * Email: chenxi[dot]xu[at]duke[dot]edu
 
