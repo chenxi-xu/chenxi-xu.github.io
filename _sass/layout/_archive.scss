@@ -243,3 +243,10 @@
     }
   }
 }
+
+/* Make publication subtitle / "with ..." line black */
+.archive__item-excerpt,
+.archive__item-excerpt p,
+.archive__item-excerpt em {
+  color: #000;
+}
