@@ -42,10 +42,11 @@
     "vendor/font-awesome/brands"
 ;
 
-/* Publication excerpt / "with ..." line */
-.page__content .archive__item .archive__item-excerpt,
-.page__content .archive__item .archive__item-excerpt *,
-.archive__item-excerpt,
-.archive__item-excerpt * {
+
+/* Make publication metadata line black */
+.page__meta,
+.page__meta *,
+.archive__item .page__meta,
+.archive__item .page__meta * {
   color: #000000 !important;
 }
