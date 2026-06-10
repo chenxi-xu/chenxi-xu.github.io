@@ -51,7 +51,8 @@
 /* Paper title */
 .archive__item-title {
   display: inline !important;
-  margin-right: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
   font-size: 1.05rem !important;
   line-height: 1.25 !important;
 }
@@ -59,7 +60,7 @@
 /* Paper title link */
 .archive__item-title a {
   color: #52adc8 !important;
-  font-size: 1.05rem !important;
+  font-size: 0.95rem !important;
   line-height: 1.25 !important;
 }
 
@@ -67,22 +68,25 @@
 .archive__item-title + .page__meta {
   display: inline !important;
   color: #000000 !important;
-  font-size: 1.05rem !important;
+  font-size: 0.95rem !important;
   line-height: 1.25 !important;
   margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* Everything inside notes, including italic journal name */
 .archive__item-title + .page__meta *,
 .archive__item-title + .page__meta em {
   color: #000000 !important;
-  font-size: 1.05rem !important;
+  font-size: 0.95rem !important;
   line-height: 1.25 !important;
 }
 
-/* Add comma between title and notes */
+/* Add comma immediately after title */
 .archive__item-title + .page__meta::before {
-  content: ", ";
+  content: ",";
   color: #000000 !important;
-  font-size: 1.05rem !important;
+  font-size: 0.95rem !important;
+  margin-left: -0.15em;
+  margin-right: 0.25em;
 }
