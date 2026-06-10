@@ -62,20 +62,23 @@
   margin-right: 0 !important;
 }
 
+/* Notes: same size as title, but black */
 .archive__item-title + .page__meta {
   display: inline !important;
-  color: #52adc8 !important;
+  color: #000000 !important;
   font-size: 0.85em !important;
+  line-height: 1.15 !important;
   margin: 0 !important;
 }
 
-/* Make everything inside the metadata line blue, including italic journal name */
+/* Make everything inside the notes black, including italic journal name */
 .archive__item-title + .page__meta *,
 .archive__item-title + .page__meta em {
-  color: #52adc8 !important;
+  color: #000000 !important;
 }
 
-/* Add comma between title and "with ..." */
+/* Add comma between title and notes */
 .archive__item-title + .page__meta::before {
   content: ", ";
+  color: #000000 !important;
 }
