@@ -48,37 +48,41 @@
   color: #000000 !important;
 }
 
-/* Paper titles: blue and smaller */
-.archive__item-title,
-.archive__item-title a {
-  color: #52adc8 !important;
-  font-size: 0.85em !important;
-  line-height: 1.15 !important;
-}
-
-/* Keep title and metadata on the same line */
+/* Paper title */
 .archive__item-title {
   display: inline !important;
   margin-right: 0 !important;
+  font-size: 1.05rem !important;
+  line-height: 1.25 !important;
 }
 
-/* Notes: same size as title, but black */
+/* Paper title link */
+.archive__item-title a {
+  color: #52adc8 !important;
+  font-size: 1.05rem !important;
+  line-height: 1.25 !important;
+}
+
+/* Notes: same size as title, black */
 .archive__item-title + .page__meta {
   display: inline !important;
   color: #000000 !important;
-  font-size: 0.85em !important;
-  line-height: 1.15 !important;
+  font-size: 1.05rem !important;
+  line-height: 1.25 !important;
   margin: 0 !important;
 }
 
-/* Make everything inside the notes black, including italic journal name */
+/* Everything inside notes, including italic journal name */
 .archive__item-title + .page__meta *,
 .archive__item-title + .page__meta em {
   color: #000000 !important;
+  font-size: 1.05rem !important;
+  line-height: 1.25 !important;
 }
 
 /* Add comma between title and notes */
 .archive__item-title + .page__meta::before {
   content: ", ";
   color: #000000 !important;
+  font-size: 1.05rem !important;
 }
