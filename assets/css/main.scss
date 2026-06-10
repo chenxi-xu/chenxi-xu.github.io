@@ -43,15 +43,7 @@
 ;
 
 
-/* Make publication metadata line black */
-.page__meta,
-.page__meta *,
-.archive__item .page__meta,
-.archive__item .page__meta * {
-  color: #000000 !important;
-}
-
-/* Publications / Working Papers headings */
+/* Section headings: Publications / Working Papers */
 .archive__subtitle {
   color: #000000 !important;
 }
@@ -62,4 +54,28 @@
   color: #52adc8 !important;
   font-size: 0.85em !important;
   line-height: 1.15 !important;
+}
+
+/* Keep title and metadata on the same line */
+.archive__item-title {
+  display: inline !important;
+  margin-right: 0 !important;
+}
+
+.archive__item-title + .page__meta {
+  display: inline !important;
+  color: #52adc8 !important;
+  font-size: 0.85em !important;
+  margin: 0 !important;
+}
+
+/* Make everything inside the metadata line blue, including italic journal name */
+.archive__item-title + .page__meta *,
+.archive__item-title + .page__meta em {
+  color: #52adc8 !important;
+}
+
+/* Add comma between title and "with ..." */
+.archive__item-title + .page__meta::before {
+  content: ", ";
 }
