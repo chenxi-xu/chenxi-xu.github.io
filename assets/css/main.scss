@@ -50,3 +50,16 @@
 .archive__item .page__meta * {
   color: #000000 !important;
 }
+
+/* Publications / Working Papers headings */
+.archive__subtitle {
+  color: #000000 !important;
+}
+
+/* Paper titles: blue and smaller */
+.archive__item-title,
+.archive__item-title a {
+  color: #52adc8 !important;
+  font-size: 0.85em !important;
+  line-height: 1.15 !important;
+}
