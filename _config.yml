@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Chenxi Xu"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/his"  
   bio              : "Ph.D. candidate in Decision Sciences"
   location         : "Durham, NC"
   employer         : "Duke University"
   uri              : # URL
-  email            : "chenxi.xu@duke.edu" 
+  email            : "xu2301@purdue.edu" 
 
   # Academic websites
   academia         : # URL
