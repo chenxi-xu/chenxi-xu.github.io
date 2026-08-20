@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I received my Ph.D. in Decision Sciences at the Fuqua School of Business, Duke University, where I was advised by Prof. [Peng Sun](https://www.fuqua.duke.edu/faculty/peng-sun). My research focuses on applied mechanism and market design, with an emphasis on using analytical modeling and optimization methods to address innovation and healthcare problems. I am also interested in applying robust optimization techniques to these problems.
+Welcome! I am an Assistant Professor in the Supply Chain and Operations Management Department at Purdue University's Mitch Daniels School of Business.
 
-**I will join the Supply Chain and Operations Management Department at Purdue University's Mitch Daniels School of Business as an Assistant Professor in Summer 2026.**
+I received my Ph.D. in Decision Sciences from the Fuqua School of Business at Duke University, where I was advised by Prof. [Peng Sun](https://www.fuqua.duke.edu/faculty/peng-sun). My research focuses on applied mechanism and market design, with an emphasis on using analytical modeling and optimization methods to address problems in innovation and healthcare. I am also interested in applying robust optimization techniques to these settings and in pursuing empirical research that complements my analytical work.
 
 ## Contact
 * Email: xu2301[at]purdue[dot]edu
