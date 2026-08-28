@@ -7,7 +7,7 @@ category: working_papers
 date: 2025-08-01
 venue: 'with David Ridley and Peng Sun'
 #slidesurl: '/files/slides1.pdf'
-link: '/files/push_pull.pdf'
+link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5266214'
 #bibtexurl: '/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
