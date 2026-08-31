@@ -4,5 +4,5 @@ collection: research
 category: publications  # <--- This file is in the "Working Papers" group
 date: 2025-09-01
 venue: 'with Giuseppe Lopomo, David Ridley, and Peng Sun, accepted at <i>Management Science</i>'
-link: '/files/conditional.pdf'
+link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5482146'
 ---
