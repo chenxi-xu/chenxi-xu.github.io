@@ -7,7 +7,7 @@ category: working_papers
 date: 2025-09-03
 venue: 'with Yushan Zhou and Ziwei Zhu'
 #slidesurl: '/files/slides1.pdf'
-link: '/files/pharma_RD.pdf'
+link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5705522'
 #bibtexurl: '/files/bibtex1.bib'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
