@@ -1,5 +1,5 @@
 ---
-title: "Work-Order Authorization in Maintenance Service Networks: Optimal Mechanisms with Supplier Inducements"
+title: "Work-Order Authorization in Maintenance Contracting: Mechanism Design with Supplier Inducements"
 collection: research
 category: working_papers
 #permalink: /research/pharma_RD.md
